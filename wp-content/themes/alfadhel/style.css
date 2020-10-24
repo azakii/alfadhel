@@ -1,0 +1,34 @@
+/*
+Theme Name: QNPF Theme
+Theme URI:  ah.zakii@hotmail.com
+Description: QNPF Dynamic website with the custom Theme
+Version: 3.6.2
+Author: 
+Author URI: 
+Tags: powerful, cheat, sheet
+*/
+
+
+.screen-reader-response {
+    display: none;
+}
+
+.wpcf7-not-valid-tip {
+    font-size:14px;
+    font-weight: 300;
+    color:red;
+}
+.wpcf7-not-valid {
+    border:1px red solid;   
+}
+.wpcf7-validation-errors {    
+    background: #fbd1d1;
+    border: 1px solid #bd4343;
+    font-size: 13px;
+    font-weight: 300;
+    padding: 10px;
+    margin: 40px 0;
+}
+.wpcf7-response-output {
+    margin-bottom: 3rem;
+}
